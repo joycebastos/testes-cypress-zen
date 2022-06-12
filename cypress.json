@@ -1,0 +1,6 @@
+{
+  "viewportWidth": 1024,
+  "viewportHeight": 768,
+  "defaultCommandTimeout": 30000,
+  "baseUrl": "https://zenklub.com.br/auth/login"
+}
